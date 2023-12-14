@@ -1,0 +1,14 @@
+{
+    "name": "python-back",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "python3 app.py"
+    },
+    "dependencies": {
+        "express": "4.17.1"
+    },
+    "engines": {
+        "python": "3.12"
+    }
+}
